@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hello there! I'm Ayush, a passionate full-stack developer<br><br>💻 On the front-end, I specialize in crafting responsive and intuitive user interfaces using modern technologies such as HTML5, CSS3, JavaScript, and frameworks like React.js.<br><br>🚀 When it comes to the back-end, I'm proficient in designing robust APIs, managing databases, and handling server-side logic using technologies like Node.js, Express.js, MongoDB, and SQL.<br><br>🌱 Currently, I'm working on Retrogames I'm dedicated to bringing the nostalgic classic gaming back to life by developing, and Implementing User Authentication, Database Management.
+
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/Ayuusaxena/" target="_blank"> Ayush Saxena </a></h1>
+<h3 align="center"> <img src="https://typing-readme.vercel.app" /> </h3>
+👋 Hello there! I'm Ayush, a passionate full-stack developer
+
+<br><br>💻 On the front-end, I specialize in crafting responsive and intuitive user interfaces using modern technologies such as HTML5, CSS3, JavaScript, and frameworks like React.js.<br><br>🚀 When it comes to the back-end, I'm proficient in designing robust APIs, managing databases, and handling server-side logic using technologies like Node.js, Express.js, MongoDB, and SQL.<br><br>🌱 Currently, I'm working on Retrogames I'm dedicated to bringing the nostalgic classic gaming back to life by developing, and Implementing User Authentication, Database Management.
 
 # 🧑🏻‍💻 Projects :
 
