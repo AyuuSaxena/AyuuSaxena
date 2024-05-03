@@ -3,7 +3,7 @@
 
 # 🧑🏻‍💻 Projects :
 
-## 1. Retrogames:<br>
+## 1. Retrogames(MERN):<br>
 Link: https://retrogames-sigma.vercel.app<br><br>
 ![Retrogames](Img/Retrogames.gif)
 
