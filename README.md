@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hello there! I'm Ayush, a passionate full-stack developer<br><br>💻 On the front-end, I specialize in crafting responsive and intuitive user interfaces using modern technologies such as HTML5, CSS3, JavaScript, and frameworks like React.js.<br><br>🚀 When it comes to the back-end, I'm proficient in designing robust APIs, managing databases, and handling server-side logic using technologies like Node.js, Express.js, MongoDB, and SQL.<br><br>🌱 Currently, I'm working on Retrogames I'm dedicated to bringing the nostalgic classic gaming back to life by developing, and Implementing User Authentication, Database Management.
 
+# 🧑🏻‍💻 Projects :
+
+![alt text](https://github.com/AyuuSaxena/AyuuSaxena/blob/main/Retrogames.gif?raw=true)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ayushsaxena) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayuu-saxena) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_ayushsaxena) 
