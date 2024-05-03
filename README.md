@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/Ayuusaxena/" target="_blank"> Ayush Saxena </a></h1>
+<p align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/Ayuusaxena/" target="_blank"> Ayush Saxena </a></p>
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%3A)" alt="Typing SVG" /></a>
 👋 Hello there! I'm Ayush, a passionate full-stack developer
 
