@@ -4,7 +4,7 @@
 # 🧑🏻‍💻 Projects :
 
 ## 1. Retrogames:<br>
-Link:https://retrogames-sigma.vercel.app<br><br>
+Link: https://retrogames-sigma.vercel.app<br><br>
 ![Retrogames](Img/Retrogames.gif)
 
 ## 🌐 Socials:
