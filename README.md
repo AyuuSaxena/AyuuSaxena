@@ -1,7 +1,8 @@
 # 💫 About Me:
 
-<p >👋 Hi, I'm <a href="https://www.linkedin.com/in/Ayuusaxena/" target="_blank"> Ayush Saxena </a> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%3A)" alt="Typing SVG" /></p>
+<p > <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%3A)" alt="Typing SVG" /></p>
 
+<p >👋 Hi, I'm <a href="https://www.linkedin.com/in/Ayuusaxena/" target="_blank"> Ayush Saxena </a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%3A)" alt="Typing SVG" /></p>
 
 👋 Hello there! I'm Ayush, a passionate full-stack developer
 
