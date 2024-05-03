@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-###[ffufj]
+### [ffufj]
 <span style="font-size:5rem;">👋 Hi, I'm <a href="https://www.linkedin.com/in/Ayuusaxena/" target="_blank"> Ayush Saxena </a></span>
 <p > <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%3A)" alt="Typing SVG" /></p>
 
