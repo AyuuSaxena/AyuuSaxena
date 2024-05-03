@@ -1,10 +1,7 @@
 # 💫 About Me:
 
+<p style="font-size: 20px;">👋 Hi, I'm <a href="https://www.linkedin.com/in/Ayuusaxena/" target="_blank"> Ayush Saxena </a></p>
 <p > <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Developer+%3A)" alt="Typing SVG" /></p>
-
-<p style="font-size: 20px; height: 30px;" >👋 Hi, I'm <a href="https://www.linkedin.com/in/Ayuusaxena/" target="_blank"> Ayush Saxena </a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&height=30&lines=Full+Stack+Developer+%3A)" alt="Typing SVG" /></p>
-
-👋 Hello there! I'm Ayush, a passionate full-stack developer
 
 <br><br>💻 On the front-end, I specialize in crafting responsive and intuitive user interfaces using modern technologies such as HTML5, CSS3, JavaScript, and frameworks like React.js.<br><br>🚀 When it comes to the back-end, I'm proficient in designing robust APIs, managing databases, and handling server-side logic using technologies like Node.js, Express.js, MongoDB, and SQL.<br><br>🌱 Currently, I'm working on Retrogames I'm dedicated to bringing the nostalgic classic gaming back to life by developing, and Implementing User Authentication, Database Management.
 
